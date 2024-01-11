@@ -1,7 +1,7 @@
 Movie Recommendation System
 ==============================
 
-Capstone 2 for springboard course. Movie Recommendation System.
+Capstone 2 for springboard course. Movie Recommendation System..
 
 Project Organization
 ------------
