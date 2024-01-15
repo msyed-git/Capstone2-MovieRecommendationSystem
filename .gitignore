@@ -77,6 +77,9 @@ target/
 
 # exclude data from source control by default
 /data/
+/Users/mohsin/Desktop/DS - SpringBoard/Capstone Projects/Capstone2-MovieRecommendationSystem/src/data/The Movies Dataset/ratings.csv
+/Users/mohsin/Desktop/DS - SpringBoard/Capstone Projects/Capstone2-MovieRecommendationSystem/src/data/The Movies Dataset/credits.csv
+
 
 # Mac OS-specific storage files
 .DS_Store
